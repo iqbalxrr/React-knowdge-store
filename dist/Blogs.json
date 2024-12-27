@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co.com/rtXy3pd/wordpress-265132-1280.jpg",
+        "title": "Whispers of the Night",
+        "author": "Alice Thompson",
+        "author_img": "https://i.ibb.co.com/0BVMZhN/Rectangle-11.png",
+        "posted_date": "2023-05-12",
+        "reading_time": 4,
+        "hastaq": ["#mystery", "#thriller", "#fiction"]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co.com/G7B6RW3/diary-968592-1280.jpg",
+        "title": "Journey to the Stars",
+        "author": "Michael Rivera",
+        "author_img": "https://i.ibb.co.com/8c0V5jh/Rectangle-19.png",
+        "posted_date": "2023-07-19",
+        "reading_time": 6 ,
+        "hastaq": ["#sci-fi", "#adventure", "#space"]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co.com/g4rf713/student-865073-1280.jpg",
+        "title": "The Last Garden",
+        "author": "Emily Zhang",
+        "author_img": "https://i.ibb.co.com/CbwYJBv/Rectangle-18.png",
+        "posted_date": "2023-08-23",
+        "reading_time": 5 ,
+        "hastaq": ["#romance", "#nature", "#drama"]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co.com/ZKWy10r/laptop-4906312-1280.jpg",
+        "title": "Secrets of the Ocean",
+        "author": "David Lee",
+        "author_img": "https://i.ibb.co.com/8XB619s/Rectangle-14.png",
+        "posted_date": "2023-04-15",
+        "reading_time": 3 ,
+        "hastaq": ["#nonfiction", "#ocean", "#environment"]
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co.com/6BG2rgR/work-3938875-1280.jpg",
+        "title": "Echoes of Time",
+        "author": "Sophia Patel",
+        "author_img": "https://i.ibb.co.com/jTCffSk/Rectangle-12.png",
+        "posted_date": "2023-09-05",
+        "reading_time": 7 ,
+        "hastaq": ["#historical", "#fantasy", "#epic"]
+    }
+]
